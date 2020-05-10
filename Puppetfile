@@ -1,4 +1,4 @@
-forge:
+forge
   baseurl: 'https://forgeapi.puppetlabs.com'
 mod 'puppetlabs/stdlib'
 
