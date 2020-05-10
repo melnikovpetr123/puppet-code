@@ -1,5 +1,4 @@
-forge
-  baseurl: 'https://forgeapi.puppetlabs.com'
+forge 'https://forgeapi.puppetlabs.com'
 mod 'puppetlabs/stdlib'
 
 mod 'apache',
